@@ -1,6 +1,6 @@
 
 * **Enseignant:** [Xavier CORBIER](https://xaviercorbier.fr) 
-* **Lien:** [URL du cours (si disponible)]  
+* **Lien:** [https://shorturl.at/PcNed](https://shorturl.at/PcNed)  
 
 # **Table des matières**  
 
@@ -17,14 +17,12 @@
 - **Session 3 : Modélisation, Transactions et Administration**  
   - [Partie 1 : Modélisation des données et relations](./sessions/S3-P1.md)  
   - [Partie 2 : Transactions et gestion de la cohérence](./sessions/S3-P2.md)  
-  - [Partie 3 : Sécurité, sauvegarde et déploiement](./sessions/S3-P3.md)  
+  - [Partie 3 : Bonnes pratiques pour développer avec MongoDB](./sessions/S3-P3.md)  
 
 - **Travaux pratiques :**  
-  - [Manipulation des bases MongoDB via Compass et CLI](./sessions/TP1-1.md)  
-  - [Développement d’une API avec MongoDB et Node.js](./sessions/TP2-1.md)  
-  - [Optimisation des requêtes et Indexation](./sessions/TP3-1.md)  
-  - [Mise en place d’un Replica Set](./sessions/TP4-1.md)  
-  - [Projet final : Développement d’une application complète](./sessions/TP5-1.md)  
+  - [Manipulation des bases MongoDB via Compass et CLI](./sessions/TP1.md)  
+  - [Développement d’une API avec MongoDB et Node.js](./sessions/TP2.md)  
+  - [Optimisation des requêtes et Indexation](./sessions/TP3.md)  
 
 ---
 
