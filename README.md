@@ -1,6 +1,5 @@
----
 
-* **Enseignant:** [Ton Nom ou Université]  
+* **Enseignant:** [Xavier CORBIER](https://xaviercorbier.fr) 
 * **Lien:** [URL du cours (si disponible)]  
 
 # **Table des matières**  
