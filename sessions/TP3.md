@@ -182,10 +182,3 @@ db.utilisateurs.find({ "nom": "Alice" }).hint({ "nom": 1 })
 ✔ Dans quels cas utiliser un **index TTL** ?  
 ✔ Comment forcer MongoDB à utiliser un index avec `hint()` ?  
 
----
-
-📌 **Prochaine étape :** [TP 4 - Mise en place d’un Replica Set](./sessions/TP4-1.md) 🚀  
-
----
-
-Ce **README** est **complet** et prêt pour une **session de TP**. Dis-moi si tu veux **des ajustements** ! 😊🚀
